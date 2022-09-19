@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Komal Kopnar</h1>
 <h3 align="center">A passionate Backend Java developer from Pune</h3>
-<img align="center" width="40%" height="40%" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" alt="gif"/>
+<img align="center" width="50%" height="50%" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" alt="gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komalkopnar622&label=Profile%20views&color=0e75b6&style=flat" alt="komalkopnar622" /> </p>
 
 - 🌱 I’m currently learning **Java Backend Developer**
