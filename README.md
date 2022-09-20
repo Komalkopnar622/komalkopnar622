@@ -2,11 +2,17 @@
 <h3 align="center">A passionate Backend Java developer from Pune</h3>
 <img align="center" width="50%" height="50%" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" alt="gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komalkopnar622&label=Profile%20views&color=0e75b6&style=flat" alt="komalkopnar622" /> </p>
-<h3>Interests:</h3>
+<h5>Interests:</h5>
 <ul>
 <li>Front end Development</li>
 <li>Data Structures And Algorithms</li>
 <li>Back end Development</li>
+</ul>
+<h5>Languages</h5>
+<ul>
+<li>English</li>
+<li>Marathi</li>
+<li>Hindit</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
