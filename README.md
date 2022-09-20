@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Komal Kopnar</h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=blue&amp;size=20&amp;lines=Hey!+It's+Komal+Kopnar!;Java+Back-end+Developer...;" style="width: 100%;">
 <h3 align="center">A passionate Backend Java developer from Pune</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komalkopnar622&label=Profile%20views&color=0e75b6&style=flat" alt="komalkopnar622" /> </p>
