@@ -18,7 +18,8 @@
 </ul>
  <hr size="30">
 <h3 align="center">Connect with me:</h3>
-<p align="left">
+<hr>
+<p align="center">
 <a href="https://linkedin.com/in/komalkopnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="komalkopnar" height="30" width="40" /></a>
 <a href="https://fb.com/komal kopnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="komal kopnar" height="30" width="40" /></a>
 <a href="https://instagram.com/k_o_m_a_l_0_1_4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k_o_m_a_l_0_1_4" height="30" width="40" /></a>
