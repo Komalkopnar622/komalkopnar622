@@ -46,7 +46,7 @@
 
 
 
-<hr>
+
 <h2 align="center">📊 My Github Stats<h2>
 <div>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=komalkopnar622&theme=react" alt="komalkopnar" height="250px" width="47%" />
