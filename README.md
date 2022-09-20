@@ -2,18 +2,12 @@
 <h3 align="center">A passionate Backend Java developer from Pune</h3>
 <img align="center" width="50%" height="50%" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" alt="gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komalkopnar622&label=Profile%20views&color=0e75b6&style=flat" alt="komalkopnar622" /> </p>
-
-- 🌱 I’m currently learning **Java Backend Developer**
-
-- 👨‍💻 All of my projects are available at [komalkopnar622.github.io](komalkopnar622.github.io)
-
-- 💬 Ask me about **C,Cpp,java,JavaScript,HTML,CSS**
-
-- 📫 How to reach me **komal.kopnar2@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1nAQDF_-4Prv7Oqh6pxGmOAnRKCD5Jltu/view?usp=sharing](https://drive.google.com/file/d/1nAQDF_-4Prv7Oqh6pxGmOAnRKCD5Jltu/view?usp=sharing)
-
-- ⚡ Fun fact **I think I am funny**
+<h3>Interests:</h3>
+<ul>
+<li>Front end Development</li>
+<li>Data Structures And Algorithms</li>
+<li>Back end Development</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
