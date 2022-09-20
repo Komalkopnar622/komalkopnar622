@@ -18,6 +18,7 @@
 <li>Hindi</li>
 </ul>
 <h3 align="center">How to reach me:</h3>
+<hr>
 <p align="center"><a href="mailto:komal.kopnar2@gmil.com"> komal.kopnar2@gmail.com
                                     </a></p>
 <h3 align="center">Know about my experiences:</h3>
