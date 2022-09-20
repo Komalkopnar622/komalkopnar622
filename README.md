@@ -2,15 +2,19 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=gray&amp;size=25&amp;lines=Hey!+It's+Komal+Kopnar!;Java+Back-end+Developer...;" style="width: 100%;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komalkopnar622&label=Profile%20views&color=0e75b6&style=flat" alt="komalkopnar622" /> </p>
- <img align="right" alt="Coding" width="400"  src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" alt="gif"/> 
+<img align="right" alt="Coding" width="400"  src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" alt="gif"/> 
+<div>
 <h4>Interests:</h4>
 <ul>
 <li>Front end Development</li>
 <li>Data Structures And Algorithms</li>
 <li>Back end Development</li>
 </ul>
+ </div>
+ <div>
 <h4>Portfolio:</h4>
 <a href="https://komalkopnar622.github.io/">@komalkopnar</a>
+ </div>
 <h4>Languages:</h4>
 <ul>
 <li>English</li>
