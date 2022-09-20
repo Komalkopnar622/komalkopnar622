@@ -17,7 +17,9 @@
 <li>Marathi</li>
 <li>Hindi</li>
 </ul>
- <hr size="30">
+<h3 align="center">How to reach me:</h3>
+<h3 align="center">Know about my experiences:</h3>
+
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
