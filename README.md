@@ -16,8 +16,7 @@
 <li>Marathi</li>
 <li>Hindit</li>
 </ul>
-<hr style="height:2px;border-width:0;color:gray;background-color:gray >
-
+ <hr size="30">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/komalkopnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="komalkopnar" height="30" width="40" /></a>
