@@ -1,6 +1,5 @@
 ### Hi there👋
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=gray&amp;size=25&amp;lines=Hey!+It's+Komal+Kopnar!;Java+Back-end+Developer...;" style="width: 100%;">
-<h3 align="center">A passionate Backend Java developer from Pune</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komalkopnar622&label=Profile%20views&color=0e75b6&style=flat" alt="komalkopnar622" /> </p>
  <img align="right" alt="Coding" width="400"  src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" alt="gif"/> 
@@ -16,11 +15,11 @@
 <ul>
 <li>English</li>
 <li>Marathi</li>
-<li>Hindit</li>
+<li>Hindi</li>
 </ul>
  <hr size="30">
 <h3 align="center">Connect with me:</h3>
-<hr>
+
 <p align="center">
 <a href="https://linkedin.com/in/komalkopnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="komalkopnar" height="30" width="40" /></a>
 <a href="https://fb.com/komal kopnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="komal kopnar" height="30" width="40" /></a>
