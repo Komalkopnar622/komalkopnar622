@@ -16,7 +16,7 @@
 <li>Marathi</li>
 <li>Hindit</li>
 </ul>
-<hr>
+<hr style="height:2px;border-width:0;color:gray;background-color:gray >
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
