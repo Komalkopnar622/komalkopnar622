@@ -45,12 +45,23 @@
 <div>
   </br>
  
- <h2 align="center">📊 My Github Stats<h2>
+   
 <div>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=komalkopnar622&theme=react" alt="komalkopnar" height="250px" width="47%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=komalkopnar622&show_icons=true&theme=react" height="255px" width="47%"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=komalkopnar622&theme=react&langs_count=8" alt="komalkopnar" height="260px" width="25%" />
+  <img align="right"  src="https://activity-graph.herokuapp.com/graph?username=komalkopnar622&bg_color=181818&color=5BCDEC&line=5BCDEC&point=FFFFFF" height="255px" width="70%"/>
 <div>
-  </br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+
+
+
+
+
+<code>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"><img align="center" height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/raw/master/Profile%20generator/marquee.svg" style="max-width: 100%;"></a>
+</code>
+<img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 
 
