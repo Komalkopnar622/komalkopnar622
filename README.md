@@ -33,12 +33,12 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
                                     </a></p>
  </div>
 <h3 align="center">Know about my experiences:</h3>
-<hr height="2";border-width="0";color:gray;>
+<hr>
 <p align="center"><a href="https://drive.google.com/file/d/1nAQDF_-4Prv7Oqh6pxGmOAnRKCD5Jltu/view?usp=sharing"
                     target="_blank">Resume</a></p>
 
 <h3 align="center">Connect with me:</h3>
-<hr align="center">
+<hr >
 <p align="center">
 <a href="https://linkedin.com/in/komalkopnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="komalkopnar" height="30" width="40" /></a>
 <a href="https://fb.com/komal kopnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="komal kopnar" height="30" width="40" /></a>
