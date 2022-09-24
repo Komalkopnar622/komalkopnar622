@@ -62,7 +62,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
    
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=komalkopnar622&theme=react&langs_count=8" alt="komalkopnar" height="260px" width="25%" />
-  <img align="right"  src="https://activity-graph.herokuapp.com/graph?username=komalkopnar622&bg_color=#111&color=#222&line=5BCDEC&point=FFFFFF" height="255px" width="70%"/>
+  <img align="right"  src="https://activity-graph.herokuapp.com/graph?username=komalkopnar622&bg_color=&color=&line=5BCDEC&point=FFFFFF" height="255px" width="70%"/>
 <div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
