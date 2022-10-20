@@ -51,6 +51,14 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 
 
 
+<br>
+<h2 align="center">📊 Leetcode Statistics<h2>
+<div align="center">
+<img src="https://leetcard.jacoblin.cool/komalkopnar?ext=activity" />
+<br />
+
+
+
 
 <h2 align="center">📊 My Github Stats<h2>
 <div>
